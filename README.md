@@ -82,3 +82,5 @@ All events are stored using the following schema:
 
 Display messages are not stored in MongoDB.
 They are generated dynamically when serving data to the frontend.
+
+<img width="1920" height="1018" alt="image" src="https://github.com/user-attachments/assets/ebf430c4-f4be-4814-9bcb-113110cd614d" />
